@@ -1,0 +1,5 @@
+﻿  test.c
+C:\Users\hp\Desktop\代码\data_structure-code\test_2_18\test.c(111,27): error C2143: 语法错误: 缺少“)”(在“类型”的前面)
+C:\Users\hp\Desktop\代码\data_structure-code\test_2_18\test.c(111,23): error C2198: “missingNumber”: 用于调用的参数太少
+C:\Users\hp\Desktop\代码\data_structure-code\test_2_18\test.c(111,47): error C2059: 语法错误:“)”
+C:\Users\hp\Desktop\代码\data_structure-code\test_2_18\test.c(117,1): error C2059: 语法错误:“.”
