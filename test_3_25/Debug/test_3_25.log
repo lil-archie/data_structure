@@ -1,0 +1,4 @@
+﻿  test.c
+C:\Users\hp\Desktop\代码\data_structure-code\test_3_25\test.c(376,3): warning C4033: “myQueueCreate”必须返回值
+C:\Users\hp\Desktop\代码\data_structure-code\test_3_25\test.c(381): warning C4715: “myQueueCreate”: 不是所有的控件路径都返回值
+  test_3_25.vcxproj -> C:\Users\hp\Desktop\代码\data_structure-code\test_3_25\Debug\test_3_25.exe
