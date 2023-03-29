@@ -1,0 +1,8 @@
+﻿  Queue.c
+C:\Users\hp\Desktop\代码\data_structure-code\test_3_29\Queue.c(68,1): warning C4133: “初始化”: 从“QNode *”到“Queue *”的类型不兼容
+C:\Users\hp\Desktop\代码\data_structure-code\test_3_29\Queue.c(71,1): warning C4133: “初始化”: 从“QueueNode *”到“Queue *”的类型不兼容
+  test.c
+C:\Users\hp\Desktop\代码\data_structure-code\test_3_29\test.c(30,3): warning C4033: “BuyNode”必须返回值
+  正在生成代码...
+C:\Users\hp\Desktop\代码\data_structure-code\test_3_29\test.c(37): warning C4715: “BuyNode”: 不是所有的控件路径都返回值
+  test_3_29.vcxproj -> C:\Users\hp\Desktop\代码\data_structure-code\test_3_29\Debug\test_3_29.exe
